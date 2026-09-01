@@ -132,3 +132,28 @@ nav h1 {
   letter-spacing: 0.2em;
   color: #000;
 }
+
+#nav-ul {
+  list-style: none;
+  display: flex;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-li a {
+  color:hotpink;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 8px;
+  transition:
+    backround 0.25s ease;
+    color 0.25s ease;
+}
+
+.nav-li a:hover {
+  background:#5025eb;
+  color:chartreuse;
+}
