@@ -21,7 +21,7 @@ main {
 body {
   margin: 0;
   background: #c43d97;
-  color: #222;
+  color:chartreuse
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -78,7 +78,7 @@ h2 {
   font-weight: 600;
   padding: 10px 20px;
   background: #fff;
-  border: 1px solid #ddd;
+  border: 2px solid aquamarine;
   border-radius: 100px;
   transition:
     backround 0.25s ease,
@@ -120,7 +120,7 @@ nav {
   margin-bottom: 48px;
   padding: 16px 24px;
   background: #fff;
-  border: 1px solid #e0e0e0;
+  border: 3px solid #5025eb;
   border-radius: 12px;
 }
 
